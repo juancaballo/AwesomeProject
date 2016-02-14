@@ -16,7 +16,7 @@ class AwesomeProject extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          I'm the best!
         </Text>
         <Text style={styles.instructions}>
           To get started, edit index.ios.js
